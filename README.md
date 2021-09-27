@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Basir98
-- 🌱 I’m currently learning data structures. 
+- 👋 Hi, I’m @Basir98 
 - 📫 You can reach me via basirram98@gmail.com
 
 <!---
