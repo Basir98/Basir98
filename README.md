@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basir98 
-- 🌱 I’m currently learning React and storing data using databases in React and .Net applications. 
+- 🌱 I’m currently learning data structures and React. 
 - 📫 You can reach me via basirram98@gmail.com
 
 <!---
