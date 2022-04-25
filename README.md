@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Basir
-- 🌱 I’m currently learning data structures and React. 
 - 📫 You can reach me via basirram98@gmail.com
 
 <!---
