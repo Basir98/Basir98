@@ -4,26 +4,22 @@
 
 **Finance app**<br>
 En ekonomi app där användaren kan lägga till inkomster och utgifter i sitt konto. All data sparas och hämtas från en databas. Lösenordet som sparas är hashad för en mer säker användning. 
-Nyckelord: Android, SQLite, användarkonto, lösenord hashing, inkomster och utgifter. 
 Mer info om applikationen i följande länk (läs gärna README filen): 
 [Finance app](https://github.com/Basir98/Android_personal_finance_App) 
 
 **Post app**<br>
 En post applikation där användarna kan dela med sig sina kommentarer och följa varandra. För att öka användarsäkerhet används lösenord encryption som ser till att lösenordet är hashad och ingen kommer åt lösenordet även från databasen. 
-Nyckelord: Ruby on rails, password encryption, activation email, reset password.
 Mer info om applikationen i följande länk (läs gärna README filen): 
 [Post app](https://github.com/Basir98/Post-app) 
 
 **Event Organizer app**<br>
 Event organizer applikation för att skapa en event och beräkna kostnaden för varje deltagare. 
-Nyckelord: OOP och unit testing.
 Mer info om applikationen i följande länk (läs gärna README filen): 
 [Event Organizer app](https://github.com/Basir98/EventOrganizer) 
 
 
 **Word game**<br>
 Användaren behöver välja en ord kategori och sedan gissa maskerade orden för att få poäng.  
-Nyckelord: flertrådad, tråd synkronisering, unit testing, producer and consumer. 
 Mer info om applikationen i följande länk (läs gärna README filen): 
 [Word game](https://github.com/Basir98/Java_WordGame) 
 
