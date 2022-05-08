@@ -17,6 +17,10 @@ Event organizer applikation för att skapa en event och beräkna kostnaden för 
 Mer info om applikationen i följande länk (läs gärna README filen): 
 [Event Organizer app](https://github.com/Basir98/EventOrganizer) 
 
+**To Do Reminder app**<br>
+A todo reminder app where the user can create todo lists and rank these based on priorities.
+[ToDoReminder app](https://github.com/Basir98/ToDoReminder) 
+
 
 **Word game**<br>
 Användaren behöver välja en ord kategori och sedan gissa maskerade orden för att få poäng.  
