@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Basir
 - 📫 You can reach me via basirram98@gmail.com
 
+Here are a few of recent projects I have been working on:
 
 **Finance app**<br>
 En ekonomi app där användaren kan lägga till inkomster och utgifter i sitt konto. All data sparas och hämtas från en databas. Lösenordet som sparas är hashad för en mer säker användning. 
